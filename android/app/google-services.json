@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218537554845",
+    "project_id": "whatsappui-4528c",
+    "storage_bucket": "whatsappui-4528c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218537554845:android:11ca1702622d41bd04f574",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCNQMldWI3dtzYTVcZdzm4NW06HKYpGj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
