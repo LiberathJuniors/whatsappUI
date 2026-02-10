@@ -3,6 +3,7 @@
 import 'package:firebase_core/firebase_core.dart' show FirebaseOptions;
 import 'package:flutter/foundation.dart'
     show defaultTargetPlatform, kIsWeb, TargetPlatform;
+import 'package:whatsapp/pass.dart';
 
 /// Default [FirebaseOptions] for use with your Firebase apps.
 ///
@@ -40,8 +41,8 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD9iv9B8mmgpytdawGoGBTMz5S5MtTuzSk',
+  static final FirebaseOptions web = FirebaseOptions(
+    apiKey: apiKey,
     appId: '1:218537554845:web:fac41e0c80ebed9504f574',
     messagingSenderId: '218537554845',
     projectId: 'whatsappui-4528c',
